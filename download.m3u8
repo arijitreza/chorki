@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
+#EXTINF:5.000,
 https://polished-frost-b1fa.domdomdom.workers.dev/Chorki/Ghur%20Ghur%20Ghurni%20With%20Shehwar%20%26%20Maria%20(2022)%20S01-%20Benglai%20720p.mkv
-#EXT-X-STREAM-INF:PROGRAM-ID=2,BANDWIDTH=900000
+#EXTINF:5.000,
 https://polished-frost-b1fa.domdomdom.workers.dev/Chorki/Gunin%20(2022)%20Bengali%20720p.mkv
-#EXT-X-STREAM-INF:PROGRAM-ID=3,BANDWIDTH=900000
+#EXTINF:5.000,
 https://polished-frost-b1fa.domdomdom.workers.dev/Chorki/Nikhoj%202022%20S01%20Bengali%20720p.mkv
